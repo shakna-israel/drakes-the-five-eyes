@@ -5,3 +5,7 @@ site_description: Genius doesn't come easy.
 site_author: shakna-israel 
 use_directory_urls: true 
 pages:
+ - [index.md, Home]
+ - [LICENSE.md, License]
+ - [CONTRIBUTING.md, Contributing]
+ - [Drakes.md, Drakes]
