@@ -1,5 +1,11 @@
 ![Drakes](https://cdn.rawgit.com/shakna-israel/drakes/master/docs/img/frontCover.jpg)
 
+## Read Online
+
+Read at [shaknaisrael.com](https://shakna-israel.github.io/drakes).
+
+Read on [Kobo](https://store.kobobooks.com/en-US/ebook/drakes).
+
 ## Blurb
 ----
 
