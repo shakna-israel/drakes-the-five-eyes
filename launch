@@ -15,6 +15,3 @@ git checkout -b gh-pages
 git push origin -f gh-pages
 cd .. 
 rm -rf site
-git add .
-git commit -am "Automatic Build"
-git push origin master
