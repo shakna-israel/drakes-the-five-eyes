@@ -12,7 +12,9 @@ Suzie Drakes is up against a wall.
 ## Copyleft
 ----
 
-Released under the [Creative Commons Attribution-ShareAlike 4.0 International Public License](https://creativecommons.org/licenses/by-sa/4.0/legalcode). 
+Original released under full copyright, James Milne (c), 2012.
+
+Re-Released under the [Creative Commons Attribution-ShareAlike 4.0 International Public License](https://creativecommons.org/licenses/by-sa/4.0/legalcode), 2015. 
 
 You are free to: 
 
