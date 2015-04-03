@@ -1,0 +1,7 @@
+site_name: Drakes
+theme: readthedocs 
+repo_url: https://github.com/shakna-israel/drakes
+site_description: Genius doesn't come easy. 
+site_author: shakna-israel 
+use_directory_urls: true 
+pages:
