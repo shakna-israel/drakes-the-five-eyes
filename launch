@@ -10,7 +10,7 @@ cd site
 git init 
 git add . 
 git commit -am "Automatic Build" 
-git remote add origin https://github.com/shakna-israel/NecromancersApprentice.git
+git remote add origin https://github.com/shakna-israel/drakes-the-five-eyes.git
 git checkout -b gh-pages
 git push origin -f gh-pages
 cd .. 

@@ -1,11 +1,14 @@
-site_name: Drakes
+site_name: Drakes - The Five Eyes
 theme: readthedocs 
-repo_url: https://github.com/shakna-israel/drakes
-site_description: Genius doesn't come easy. 
+repo_url: https://github.com/shakna-israel/drakes-the-five-eyes
+site_description: Suzie fights to recover as her involvement with the Five Eyes deepens
 site_author: shakna-israel 
 use_directory_urls: true 
 pages:
  - [index.md, Home]
  - [LICENSE.md, License]
  - [CONTRIBUTING.md, Contributing]
- - [Drakes.md, Drakes]
+ - [Prologue.md, Prologue]
+ - [ChapterOne.md, Chapter One]
+ - [ChapterTwo.md, Chapter Two]
+ - [ChapterThree.md, Chapter Three]
