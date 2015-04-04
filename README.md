@@ -1,24 +1,20 @@
-![Drakes](https://cdn.rawgit.com/shakna-israel/drakes/master/docs/img/frontCover.jpg)
+![Drakes](https://cdn.rawgit.com/shakna-israel/drakes-the-five-eyes/master/docs/img/frontCover.jpg)
 
 ## Read Online
 
-Read at [shaknaisrael.com](https://shakna-israel.github.io/drakes).
+Read at [shaknaisrael.com](https://shakna-israel.github.io/drakes-the-five-eyes).
 
-Read on [Kobo](https://store.kobobooks.com/en-US/ebook/drakes).
+Read on [Kobo](https://store.kobobooks.com/en-US/ebook/drakes-the-five-eyes).
 
 ## Blurb
 ----
 
-Being a genius isn't easy...
-
-She's the target, and the world might be the end game.
-
-Suzie Drakes is up against a wall.
+Suzie Drakes is fighting to recover, following her last assignment, but the world waits for no one, and she is flung into the breach as her involvement with the Five Eyes deepens.
 
 ## Copyleft
 ----
 
-Original released under full copyright, James Milne (c), 2012.
+Original released under full copyright, James Milne (c), 2014.
 
 Re-Released under the [Creative Commons Attribution-ShareAlike 4.0 International Public License](https://creativecommons.org/licenses/by-sa/4.0/legalcode), 2015. 
 

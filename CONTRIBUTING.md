@@ -1,7 +1,7 @@
 ## Contributing
 
 * Submitting an Issue, Complaint or Suggestion
-    * Review the [Issues](https://github.com/shakna-israel/NecromancersApprentice/issues?q=is%3Aissue), past and present, to see if it has been addressed.
+    * Review the [Issues](https://github.com/shakna-israel/drakes-the-five-eyes/issues?q=is%3Aissue), past and present, to see if it has been addressed.
         * If you think an issue needs re-opening, comment on it, and ensure you include *@shakna-israel* in your comment.
     * If your issue contains spoilers about the story, ensure you use the *Spoilers* tag.
     * If your issue relates to the story, ensure you use the *Story* tag.
@@ -10,7 +10,7 @@
 
 * Forking
     * You are free to fork the repository, and use it for your own purposes.
-    * If you would like, you can notify *@shakna-israel*, through an [Issue]() and your fork can be added to the README
+    * If you would like, you can notify *@shakna-israel*, through an [Issue](https://github.com/shakna-israel/drakes-the-five-eyes/issues) and your fork can be added to the README
     * There are some limitations to the LICENSE:
         * You must give appropriate credit, and indicate if you made changes.
         * You must use the Creative Commons Attribution-ShareAlike 4.0 International license when licensing your own work.
