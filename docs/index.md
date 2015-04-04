@@ -1,4 +1,4 @@
-![Drakes](https://cdn.rawgit.com/shakna-israel/drakes-the-five-eyes/master/docs/img/frontCover.jpg)
+![Drakes](https://shakna-israel.github.io/drakes-the-five-eyes/img/frontCover.jpg)
 
 ## Read Online
 
