@@ -1,4 +1,4 @@
-![Drakes](https://cdn.rawgit.com/shakna-israel/drakes-the-five-eyes/master/docs/img/frontCover.jpg)
+![Drakes](https://shakna-israel.github.io/drakes-the-five-eyes/img/frontCover.jpg)
 
 ## Read Online
 
@@ -31,7 +31,7 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 ## Contribute
 ---- 
 
-You can find the latest version of this book, over on [Github](https://github.com/shakna-israel/drakes). 
+You can find the latest version of this book, over on [Github](https://github.com/shakna-israel/drakes-the-five-eyes). 
 
 From there, you can help make changes, grab your own copy, and make and publish your own version of the book, if you want. 
 
