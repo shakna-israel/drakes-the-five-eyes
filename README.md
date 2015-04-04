@@ -6,6 +6,13 @@ Read at [shaknaisrael.com](https://shakna-israel.github.io/drakes-the-five-eyes)
 
 Read on [Kobo](https://store.kobobooks.com/en-US/ebook/drakes-the-five-eyes).
 
+## Series
+----
+
+* [Drakes](https://shakna-israel.github.io/drakes/)
+* [Drakes: The Five Eyes](https://shakna-israel.github.io/drakes-the-five-eyes/)
+* [Drakes: Heroes and Villains](https://shakna-israel.github.io/drakes-heroes-and-villains/)
+
 ## Blurb
 ----
 
